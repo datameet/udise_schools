@@ -1,7 +1,7 @@
 ## Columns
  - id - Internal ID
  - objectid - Internal ID same as id
- - schcd - not used
+ - schcd - UDISE School Code
  - schname - Name of the School
  - schcat - School Category Code
  - school_cat - School Category
